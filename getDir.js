@@ -1,0 +1,1 @@
+exports.getDir = () => __dirname;
